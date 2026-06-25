@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -31,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
