@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AmritAsAlways/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Math
+|  |
+| ------- |
+| [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
