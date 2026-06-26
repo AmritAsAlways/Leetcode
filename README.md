@@ -55,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AmritAsAlways/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
