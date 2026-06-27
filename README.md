@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
