@@ -8,19 +8,14 @@ public:
         while(j<n){
             v[j]=nums[j]+sum;
             sum=v[j];
-            cout<<v[j]<<" ";
             j++;
         }
-        cout<<endl;
-        set<int>s;
+        int small=v[n-1],large=v[n-1];
         for(int i=n-1;i>=0;i--){
-            s.insert(v[i]);
-
-            int small=*s.begin(),large=*s.rbegin();
+            if(v[i]<small) small=v[i];
+            if(v[i]>large) large=v[i];
             int prev=0;
             if(i!=0) prev=v[i-1];
-
-            cout<<small<<" "<<large<<" "<<prev<<endl;
 
             answer=max(answer,max(abs(small-prev),abs(large-prev)));
         }
