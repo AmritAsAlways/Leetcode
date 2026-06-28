@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/AmritAsAlways/Leetcode/tree/master/0670-maximum-swap) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/AmritAsAlways/Leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Dynamic Programming
