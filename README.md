@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmritAsAlways/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
