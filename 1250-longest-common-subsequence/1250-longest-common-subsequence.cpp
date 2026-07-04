@@ -1,48 +1,21 @@
 class Solution {
 public:
-int dp[1001][1001];
-    int solve(string &text1, string &text2, int idx, int i) {
-        int n = text1.size(), m = text2.size();
-        // base condition
-        if (idx == n || i == m) return dp[idx][i]=0;
+int solve(string&text1,string&text2,int i,int j,vector<vector<int>>&dp){
+    int n=text1.size(),m=text2.size();
+    if(i==n || j==m) return 0;
 
-        if(dp[idx][i]!=-1) return dp[idx][i];
+    if(dp[i][j]!=-1) return dp[i][j];
 
-        int x=0,y=0;
-        if(text1[idx]==text2[i]){
-            x=1+solve(text1,text2,idx+1,i+1);
-        }
-        else{
-            y=max(solve(text1,text2,idx+1,i),solve(text1,text2,idx,i+1));
-        }
-
-        return dp[idx][i]=max(x,y);;
+    if(text1[i]==text2[j]){
+        return dp[i][j]=1+solve(text1,text2,i+1,j+1,dp);
     }
-
+    int x=solve(text1,text2,i,j+1,dp);
+    int y=solve(text1,text2,i+1,j,dp);
+    return dp[i][j]=max(x,y);
+}
     int longestCommonSubsequence(string text1, string text2) {
-        int n = text1.size();
-        // int answer = 0;
-
-        //all those cases we want to cover by this are already covered in skip the character 
-        //logic
-
-
-        // for (int i = 0; i < n; i++) {
-        //     answer = max(answer, solve(text1, text2, i, 0));
-        // }
-
-
-        // return answer;
-        memset(dp,-1,sizeof(dp));
-
-        solve(text1,text2,0,0);
-        for(int i=0;i<text1.size();i++){
-            for(int j=0;j<text2.size();j++){
-                cout<<dp[i][j];
-            }
-            cout<<endl;
-        }
-
-        return dp[0][0];
+        int n=text1.size(),m=text2.size();
+        vector<vector<int>>dp(n,vector<int>(m,-1));
+        return solve(text1,text2,0,0,dp);
     }
 };
