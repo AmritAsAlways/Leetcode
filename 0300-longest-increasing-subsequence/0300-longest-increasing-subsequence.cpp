@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+//Memoization solution
 int solve(vector<int>&nums,int i,int prev,vector<vector<int>>&dp){
     //base condition
     int n=nums.size();
@@ -16,7 +18,7 @@ int solve(vector<int>&nums,int i,int prev,vector<vector<int>>&dp){
 }
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        //memorization 
+        //memoization 
         vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
         return solve(nums,0,-1,dp);
     }
