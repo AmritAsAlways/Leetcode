@@ -1,6 +1,5 @@
 class Solution {
 public:
-
 //Memoization solution
 int solve(vector<int>&nums,int i,int prev,vector<vector<int>>&dp){
     //base condition
@@ -19,7 +18,19 @@ int solve(vector<int>&nums,int i,int prev,vector<vector<int>>&dp){
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
         //memoization 
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        return solve(nums,0,-1,dp);
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        // return solve(nums,0,-1,dp);
+
+        //tabulation 
+        vector<int>dp(n,-1);
+        int answer=INT_MIN;
+        for(int i=0;i<n;i++){
+            dp[i]=1;
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]) dp[i]=max(dp[i],dp[j]+1);
+            }
+            answer=max(answer,dp[i]);
+        }
+        return answer;
     }
 };
