@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1250-longest-common-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmritAsAlways/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1222-remove-covered-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/1222-remove-covered-intervals) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/AmritAsAlways/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0670-maximum-swap](https://github.com/AmritAsAlways/Leetcode/tree/master/0670-maximum-swap) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Dynamic Programming
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1250-longest-common-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmritAsAlways/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
