@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/AmritAsAlways/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0670-maximum-swap](https://github.com/AmritAsAlways/Leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/AmritAsAlways/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/AmritAsAlways/Leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
