@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/AmritAsAlways/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0678-valid-parenthesis-string) |
