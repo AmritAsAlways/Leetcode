@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/AmritAsAlways/Leetcode/tree/master/0670-maximum-swap) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1057-numbers-with-repeated-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2757-count-of-integers](https://github.com/AmritAsAlways/Leetcode/tree/master/2757-count-of-integers) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1057-numbers-with-repeated-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1250-longest-common-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmritAsAlways/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
