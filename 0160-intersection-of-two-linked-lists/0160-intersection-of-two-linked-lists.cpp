@@ -15,20 +15,11 @@ public:
 
 
         //most optimized method
-        ListNode* A=headA,*B=headB;
-        bool firsta=true,firstb=true;
-        while(A!=B){
-            A=A->next;
-            B=B->next;
-            if(A==nullptr && firsta){
-                A=headB;
-                firsta=false;
-            }
-            if(B==nullptr && firstb){
-                B=headA;
-                firstb=false;
-            }
+        ListNode *first=headA,*second=headB;
+        while(first!=second){
+            first=(first==nullptr) ? first=headB : first=first->next;
+            second=(second==nullptr) ? second=headA : second=second->next;
         }
-        return A;
+        return first;
     }
 };
