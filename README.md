@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmritAsAlways/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/AmritAsAlways/Leetcode/tree/master/2502-sort-the-people) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAsAlways/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAsAlways/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmritAsAlways/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AmritAsAlways/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1635-number-of-good-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AmritAsAlways/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1057-numbers-with-repeated-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1635-number-of-good-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2757-count-of-integers](https://github.com/AmritAsAlways/Leetcode/tree/master/2757-count-of-integers) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
