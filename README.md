@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmritAsAlways/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/AmritAsAlways/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AmritAsAlways/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0392-is-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AmritAsAlways/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/AmritAsAlways/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AmritAsAlways/Leetcode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/AmritAsAlways/Leetcode/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AmritAsAlways/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
