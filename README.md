@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmritAsAlways/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmritAsAlways/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2502-sort-the-people](https://github.com/AmritAsAlways/Leetcode/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/AmritAsAlways/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/AmritAsAlways/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2757-count-of-integers](https://github.com/AmritAsAlways/Leetcode/tree/master/2757-count-of-integers) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmritAsAlways/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
