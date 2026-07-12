@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AmritAsAlways/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2058-concatenation-of-array](https://github.com/AmritAsAlways/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmritAsAlways/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmritAsAlways/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmritAsAlways/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/AmritAsAlways/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
