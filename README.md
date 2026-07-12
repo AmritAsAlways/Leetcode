@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmritAsAlways/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmritAsAlways/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2727-number-of-senior-citizens](https://github.com/AmritAsAlways/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2757-count-of-integers](https://github.com/AmritAsAlways/Leetcode/tree/master/2757-count-of-integers) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmritAsAlways/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/AmritAsAlways/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmritAsAlways/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2727-number-of-senior-citizens](https://github.com/AmritAsAlways/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AmritAsAlways/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
