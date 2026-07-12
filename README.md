@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/AmritAsAlways/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0965-unique-email-addresses](https://github.com/AmritAsAlways/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
