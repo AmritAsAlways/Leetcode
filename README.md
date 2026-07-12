@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
+| [0485-max-consecutive-ones](https://github.com/AmritAsAlways/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
