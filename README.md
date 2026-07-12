@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AmritAsAlways/Leetcode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
 | [0965-unique-email-addresses](https://github.com/AmritAsAlways/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/AmritAsAlways/Leetcode/tree/master/1217-relative-sort-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/AmritAsAlways/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/AmritAsAlways/Leetcode/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
