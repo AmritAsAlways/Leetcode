@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmritAsAlways/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAsAlways/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AmritAsAlways/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## String
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/AmritAsAlways/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAsAlways/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAsAlways/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
