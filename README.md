@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmritAsAlways/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/AmritAsAlways/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmritAsAlways/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/AmritAsAlways/Leetcode/tree/master/0217-contains-duplicate) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
 | [1297-maximum-number-of-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AmritAsAlways/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AmritAsAlways/Leetcode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AmritAsAlways/Leetcode/tree/master/0217-contains-duplicate) |
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
