@@ -308,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/AmritAsAlways/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
