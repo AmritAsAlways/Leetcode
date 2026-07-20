@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/AmritAsAlways/Leetcode/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/AmritAsAlways/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1386-shift-2d-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/1386-shift-2d-grid) |
 | [1524-string-matching-in-an-array](https://github.com/AmritAsAlways/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmritAsAlways/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1386-shift-2d-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/1386-shift-2d-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1386-shift-2d-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/1386-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/AmritAsAlways/Leetcode/tree/master/2058-concatenation-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Trie
