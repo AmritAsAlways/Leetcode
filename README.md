@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AmritAsAlways/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AmritAsAlways/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3429-special-array-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
