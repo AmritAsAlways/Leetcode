@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AmritAsAlways/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2502-sort-the-people](https://github.com/AmritAsAlways/Leetcode/tree/master/2502-sort-the-people) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmritAsAlways/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3859-maximum-product-of-two-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AmritAsAlways/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1635-number-of-good-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2757-count-of-integers](https://github.com/AmritAsAlways/Leetcode/tree/master/2757-count-of-integers) |
+| [3859-maximum-product-of-two-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
