@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AmritAsAlways/Leetcode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/AmritAsAlways/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0436-find-right-interval](https://github.com/AmritAsAlways/Leetcode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/AmritAsAlways/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AmritAsAlways/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Binary Search
