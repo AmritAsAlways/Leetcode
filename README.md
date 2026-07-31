@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0965-unique-email-addresses](https://github.com/AmritAsAlways/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/AmritAsAlways/Leetcode/tree/master/1217-relative-sort-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AmritAsAlways/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/AmritAsAlways/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmritAsAlways/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/AmritAsAlways/Leetcode/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmritAsAlways/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AmritAsAlways/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/AmritAsAlways/Leetcode/tree/master/0670-maximum-swap) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AmritAsAlways/Leetcode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/AmritAsAlways/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1057-numbers-with-repeated-digits](https://github.com/AmritAsAlways/Leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AmritAsAlways/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AmritAsAlways/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AmritAsAlways/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Binary Search
@@ -386,4 +391,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AmritAsAlways/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
