@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AmritAsAlways/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Binary Search
@@ -282,10 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -340,4 +343,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
