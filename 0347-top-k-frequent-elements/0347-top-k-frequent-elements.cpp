@@ -8,27 +8,26 @@ struct comparator{
 };
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n=nums.size(),i=0;
-        sort(nums.begin(),nums.end());
         priority_queue<pair<int,int>,vector<pair<int,int>>,comparator>minheap;
         int size=0;
+        unordered_map<int,int>um;
         while(i<n){
-            int j=i;
-            while(j<n){
-                if(nums[j]!=nums[i]) break;
-                j++;
-            }
+            um[nums[i]]++;
+            i++;
+        }
+        for(auto&it:um){
             if(size==k){
-                if(minheap.top().second<j-i){
+                if(minheap.top().second<it.second){
                     minheap.pop();
-                    minheap.push({nums[i],j-i});
+                    minheap.push({it.first,it.second});
                 }
             }
             else{
-                minheap.push({nums[i],j-i});
+                minheap.push({it.first,it.second});
                 size++;
             }
-            i=j;
         }
+
         vector<int>v;
         while(!minheap.empty()){
             v.push_back(minheap.top().first);
