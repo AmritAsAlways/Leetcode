@@ -3,21 +3,27 @@ public:
     int countTriplets(vector<int>& arr) {
         int n=arr.size();
         vector<int>totalxor(n,arr[0]);
-        for(int i=1;i<n;i++) totalxor[i]=totalxor[i-1]^arr[i];
-        int answer=0;
+        unordered_map<int,int>um;
         for(int i=1;i<n;i++){
-            unordered_map<int,int>um;
-            //all the possible xor values from index 0 to j-1
-            for(int j=0;j<i;j++){
-                if(j==0) um[totalxor[i-1]]++;
-                else um[totalxor[i-1]^totalxor[j-1]]++;
+            totalxor[i]=totalxor[i-1]^arr[i];
+            um[totalxor[i]]++;
+        }
+        int answer=0;
+        for(int j=1;j<n;j++){
+            //all the different values of i-1 for this particular j
+            for(int i=0;i<j;i++){
+                //for i==0 case the i-1 value is 0 so
+                if(i==0){
+                    if(um.count(0)) answer+=um[0];
+                }
+                else{
+                    if(um.count(totalxor[i-1])) answer+=um[totalxor[i-1]];
+                }
             }
-            //all the possible xor values from index j to k
-            for(int k=i;k<n;k++){
-                int xorvalue=totalxor[k]^totalxor[i-1];
-                if(um.count(xorvalue)) answer+=um[xorvalue];
-            }
-            cout<<answer<<endl;
+
+            //removing the jth xor valuee
+            um[totalxor[j]]--;
+            if(um[totalxor[j]]==0) um.erase(totalxor[j]);
         }
         return answer;
     }
