@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AmritAsAlways/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmritAsAlways/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -396,4 +398,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/AmritAsAlways/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
