@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AmritAsAlways/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAsAlways/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1876-map-of-highest-peak](https://github.com/AmritAsAlways/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmritAsAlways/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/AmritAsAlways/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmritAsAlways/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1876-map-of-highest-peak](https://github.com/AmritAsAlways/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/1386-shift-2d-grid) |
+| [1876-map-of-highest-peak](https://github.com/AmritAsAlways/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AmritAsAlways/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
@@ -424,11 +427,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## BellmanÃ¢ÂÂFord Algorithm
+## BellmanÃÂ¢ÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃ¢ÂÂWarshall Algorithm
+## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
