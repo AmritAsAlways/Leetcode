@@ -22,8 +22,6 @@ public:
         set<pair<int,int>,greater<pair<int,int>>>maxheap;
         set<pair<int,int>,less<pair<int,int>>>minheap;
 
-
-
         for(int i=0;i<k;i++) maxheap.insert({nums[i],i});
         for(int i=0;i<k/2;i++){
             pair<int,int>p=*maxheap.begin();
