@@ -7,16 +7,23 @@ public:
             for(int i=0;i<n;i++) ans.push_back(nums[i]);
             return ans;
         }
-        auto comp=[](const pair<double,double>&a,const pair<double,double>&b){
-            if(a.first==b.first) return a.second>b.second;
-            return a.first>b.first;
-        };
-        set<pair<double,double>,decltype(comp)>maxheap(comp);
-        auto comp1=[](const pair<double,double>&a,const pair<double,double>&b){
-            if(a.first==b.first) return a.second>b.second;
-            return a.first<b.first;
-        };
-        set<pair<double,double>,decltype(comp1)>minheap(comp1);
+        // auto comp=[](const pair<int,int>&a,const pair<int,int>&b){
+        //     if(a.first==b.first) return a.second>b.second;
+        //     return a.first>b.first;
+        // };
+        // auto comp1=[](const pair<int,int>&a,const pair<int,int>&b){
+        //     if(a.first==b.first) return a.second>b.second;
+        //     return a.first<b.first;
+        // };
+        // set<pair<int,int>,decltype(comp)>maxheap(comp);
+        // set<pair<int,int>,decltype(comp1)>minheap(comp1);
+
+        //good way
+        set<pair<int,int>,greater<pair<int,int>>>maxheap;
+        set<pair<int,int>,less<pair<int,int>>>minheap;
+
+
+
         for(int i=0;i<k;i++) maxheap.insert({nums[i],i});
         for(int i=0;i<k/2;i++){
             pair<int,int>p=*maxheap.begin();
@@ -36,7 +43,17 @@ public:
         for(int i=k;i<n;i++){
             pair<int,int>f={nums[i-k],i-k};
             bool maxset=true;
-            if(maxheap.count(f)) maxheap.erase(f);
+            // if(maxheap.count(f)) maxheap.erase(f);
+            // else{
+            //     minheap.erase(f);
+            //     maxset=false;
+            // }
+
+            //better way
+            auto it=maxheap.find(f);
+            if(it!=maxheap.end()){
+                maxheap.erase(f);
+            }
             else{
                 minheap.erase(f);
                 maxset=false;
@@ -46,8 +63,8 @@ public:
             if(maxset) maxheap.insert(p);
             else minheap.insert(p);
 
-            pair<double,double>a=*maxheap.begin();
-            pair<double,double>b=*minheap.begin();
+            pair<int,int>a=*maxheap.begin();
+            pair<int,int>b=*minheap.begin();
 
             if(a.first>b.first){
                 maxheap.erase(a);
