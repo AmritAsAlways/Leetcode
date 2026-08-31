@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,8 +18,17 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 ## Treap
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
