@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
+| [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+| [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [4284-smallest-stable-index-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4284-smallest-stable-index-i) |
+## String
+|  |
+| ------- |
+| [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 <!---LeetCode Topics End-->
