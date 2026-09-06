@@ -12,6 +12,7 @@
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,12 +154,14 @@
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
