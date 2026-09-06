@@ -7,14 +7,14 @@ public:
         while(start<=end){
             int mid=start+(end-start)/2;
 
-            long long result=0;
+            double result=0;
 
             for(int i=0;i<n;i++){
                 double x=(double)nums[i]/(double)mid;
                 result+=ceil(x);
             }
 
-            if(result<=1LL*threshold){
+            if(result<=(double)threshold){
                 answer=mid;
                 end=mid-1;
             }
