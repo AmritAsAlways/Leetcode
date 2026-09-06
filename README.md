@@ -9,6 +9,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+| [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,4 +130,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+## Union-Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
