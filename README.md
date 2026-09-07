@@ -96,6 +96,7 @@
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Binary Tree
@@ -155,6 +156,7 @@
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Union-Find
@@ -163,6 +165,7 @@
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Graph Theory
@@ -171,6 +174,7 @@
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 ## Shortest Path
 |  |
 | ------- |
@@ -183,8 +187,10 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
