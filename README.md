@@ -96,6 +96,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/AmritAsAlways/Leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/AmritAsAlways/Leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/AmritAsAlways/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -176,6 +179,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/AmritAsAlways/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
