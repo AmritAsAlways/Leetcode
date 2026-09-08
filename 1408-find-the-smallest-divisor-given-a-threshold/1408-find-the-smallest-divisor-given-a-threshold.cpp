@@ -11,8 +11,8 @@ public:
             long long result=0;
 
             for(int i=0;i<n;i++){
-                double x=(double)nums[i]/(double)mid;
-                result+=ceil(x);
+                result+=nums[i]/mid;
+                if(nums[i]%mid!=0) result++;
             }
 
             if(result<=1LL*threshold){
