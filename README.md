@@ -114,6 +114,7 @@
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [1036-rotting-oranges](https://github.com/AmritAsAlways/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Shortest Path
 |  |
 | ------- |
