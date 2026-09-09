@@ -13,6 +13,7 @@
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
+| [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/AmritAsAlways/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -150,6 +151,7 @@
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bucket Sort
@@ -189,6 +191,7 @@
 | [0684-redundant-connection](https://github.com/AmritAsAlways/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -201,6 +204,7 @@
 | [0801-is-graph-bipartite](https://github.com/AmritAsAlways/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Shortest Path
 |  |
