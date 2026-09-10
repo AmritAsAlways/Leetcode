@@ -100,6 +100,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,10 +117,12 @@
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
