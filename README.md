@@ -71,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0866-rectangle-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
@@ -100,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -258,5 +260,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
