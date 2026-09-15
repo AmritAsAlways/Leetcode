@@ -60,6 +60,7 @@
 | ------- |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
@@ -170,6 +172,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -262,4 +265,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
