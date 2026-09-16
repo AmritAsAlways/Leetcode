@@ -17,6 +17,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/AmritAsAlways/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +99,7 @@
 | [0864-image-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0864-image-overlap) |
 | [1036-rotting-oranges](https://github.com/AmritAsAlways/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
@@ -130,6 +132,7 @@
 | [0871-keys-and-rooms](https://github.com/AmritAsAlways/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -199,6 +202,7 @@
 | [0922-possible-bipartition](https://github.com/AmritAsAlways/Leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/AmritAsAlways/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union-Find
