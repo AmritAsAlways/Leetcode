@@ -23,6 +23,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -73,6 +74,7 @@
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -94,6 +96,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -280,5 +283,6 @@
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
