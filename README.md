@@ -118,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -185,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
@@ -266,6 +268,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Recursion
 |  |
@@ -292,4 +295,8 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
