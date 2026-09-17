@@ -1,20 +1,46 @@
 class Solution {
 public:
     int totalNumbers(auto& digits) {
-        int f[10] = {0};
-        int res = 0;
+        int n=digits.size();
+        vector<int>dig(10,0);
+        for(int i=0;i<n;i++) dig[digits[i]]++;
+        unordered_set<int>us;
+        for(int i=0;i<10;i++){
+            if(dig[i]<=0) continue;
+            int sum=0;
+            sum*=10;
+            sum+=i;
+            dig[i]--;
+            for(int j=0;j<10;j++){
+                if(dig[j]<=0) continue;
 
-        for (auto& d : digits)
-            f[d]++;
+                sum*=10;
+                sum+=j;
+                dig[j]--;
+                for(int k=0;k<10;k++){
+                    if(dig[k]<=0 || k%2!=0) continue;
 
-        for (int i = 1; i < 10; i++) 
-            for (int j = 0; j < 10; j++) 
-                for (int k = 0; k < 9; k += 2) 
-                    res += f[i] > 0 &&
-                           f[j] > (i == j) &&
-                           f[k] > (i == k) + (j == k);
-        
+                    sum*=10;
+                    sum+=k;
+                    dig[k]--;
 
-        return res;
+                    if(sum<1000 && sum>99){
+                        us.insert(sum);
+                    }
+
+                    dig[k]++;
+                    sum-=k;
+                    sum/=10;
+                }
+
+                dig[j]++;
+                sum-=j;
+                sum/=10;
+            }
+            dig[i]++;
+            sum-=i;
+            sum/=10;
+        }
+        return us.size();
     }
 };
