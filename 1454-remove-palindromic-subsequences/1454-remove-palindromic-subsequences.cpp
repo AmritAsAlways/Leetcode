@@ -2,41 +2,18 @@ class Solution {
 public:
     int removePalindromeSub(string s) {
         int n=s.size(),i=0,j=n-1;
-        int answer=1;
+        //if the string is already a palindrome
+        bool palindrome=true;
         while(i<=j){
-            if(s[i]==s[j]){
-                s[i]='*';
-                s[j]='*';
-                i++;
-                j--;
+            if(s[i]!=s[j]){
+                palindrome=false;
+                break;
             }
-            else{
-                j--;
-            }
+            i++;
+            j--;
         }
-        j=n-1;
-        bool check=true;
-        while(i<=j){
-            if(s[i]=='*'){
-                i++;
-                continue;
-            }
-            if(s[j]=='*'){
-                continue;
-            }
-
-            if(s[i]==s[j]){
-                s[i]='*';
-                s[j]='*';
-                i++;
-                j--;
-                check=false;
-            }
-            else{
-                j--;
-            }
-        }
-        if(!check) answer++;
-        return answer;
+        if(palindrome) return 1;
+        //first remove all a's then remove all b's
+        return 2;
     }
 };
