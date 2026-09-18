@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+| [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -205,6 +206,7 @@
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/AmritAsAlways/Leetcode/tree/master/0889-buddy-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -316,6 +318,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1454-remove-palindromic-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
