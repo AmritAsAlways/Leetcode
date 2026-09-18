@@ -9,14 +9,18 @@ public:
             if(nums[i-1]==0) left[i]=0;
             else left[i]=left[i-1]+1;
         }
+        int answer=0;
         for(int i=n-1;i>=0;i--){
-            if(i==n-1) continue;
+            if(i==n-1){
+                answer=max(answer,left[i]+right[i]);
+                continue;
+            }
 
             if(nums[i+1]==0) right[i]=0;
             else right[i]=right[i+1]+1;
+
+            answer=max(answer,left[i]+right[i]);
         }
-        int answer=0;
-        for(int i=0;i<n;i++) answer=max(answer,left[i]+right[i]);
         return answer;
     }
 };
