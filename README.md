@@ -38,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
@@ -80,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
