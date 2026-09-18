@@ -208,6 +208,7 @@
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/AmritAsAlways/Leetcode/tree/master/0889-buddy-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1454-remove-palindromic-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/AmritAsAlways/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmritAsAlways/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -315,6 +316,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1454-remove-palindromic-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
