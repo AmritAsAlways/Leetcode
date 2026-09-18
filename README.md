@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AmritAsAlways/Leetcode/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/AmritAsAlways/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
@@ -108,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AmritAsAlways/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/AmritAsAlways/Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
