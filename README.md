@@ -87,6 +87,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AmritAsAlways/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0866-rectangle-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -100,6 +101,7 @@
 | [0162-find-peak-element](https://github.com/AmritAsAlways/Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AmritAsAlways/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0907-koko-eating-bananas](https://github.com/AmritAsAlways/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
