@@ -226,6 +226,7 @@
 | [1472-increasing-decreasing-string](https://github.com/AmritAsAlways/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmritAsAlways/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AmritAsAlways/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmritAsAlways/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -343,6 +344,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
