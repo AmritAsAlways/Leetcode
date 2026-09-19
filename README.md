@@ -188,6 +188,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmritAsAlways/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -329,6 +330,7 @@
 | [1454-remove-palindromic-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bracket Sequences
@@ -343,4 +345,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AmritAsAlways/Leetcode/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
