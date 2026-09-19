@@ -83,6 +83,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+| [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -216,6 +217,7 @@
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/AmritAsAlways/Leetcode/tree/master/0889-buddy-strings) |
@@ -355,4 +357,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
