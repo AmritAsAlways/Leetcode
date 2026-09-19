@@ -16,6 +16,7 @@
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
+| [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [0864-image-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/AmritAsAlways/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -343,6 +344,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Interactive
 |  |
@@ -351,5 +353,6 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
