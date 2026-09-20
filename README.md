@@ -37,6 +37,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/AmritAsAlways/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -111,6 +112,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/AmritAsAlways/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -157,6 +159,7 @@
 | [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/AmritAsAlways/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Dynamic Programming
 |  |
 | ------- |
