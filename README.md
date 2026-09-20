@@ -234,6 +234,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmritAsAlways/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/AmritAsAlways/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Bucket Sort
@@ -355,6 +356,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Interactive
 |  |
@@ -367,6 +369,7 @@
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
