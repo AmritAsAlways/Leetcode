@@ -113,6 +113,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AmritAsAlways/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0866-rectangle-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/AmritAsAlways/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [4245-count-commas-in-range](https://github.com/AmritAsAlways/Leetcode/tree/master/4245-count-commas-in-range) |
@@ -130,6 +131,7 @@
 | [0410-split-array-largest-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AmritAsAlways/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0907-koko-eating-bananas](https://github.com/AmritAsAlways/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -383,4 +385,28 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
