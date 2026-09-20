@@ -235,6 +235,7 @@
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/AmritAsAlways/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3811-reverse-degree-of-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3811-reverse-degree-of-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Interactive
 |  |
 | ------- |
