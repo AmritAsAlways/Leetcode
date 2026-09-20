@@ -15,6 +15,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AmritAsAlways/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
@@ -88,6 +89,7 @@
 | [0011-container-with-most-water](https://github.com/AmritAsAlways/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
@@ -164,6 +167,7 @@
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AmritAsAlways/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAsAlways/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
