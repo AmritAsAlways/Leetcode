@@ -247,6 +247,7 @@
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/AmritAsAlways/Leetcode/tree/master/0889-buddy-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/AmritAsAlways/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmritAsAlways/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -375,6 +376,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -392,6 +394,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
+| [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2470-removing-stars-from-a-string) |
