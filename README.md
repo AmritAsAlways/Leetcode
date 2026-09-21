@@ -22,6 +22,7 @@
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
 | [0864-image-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/AmritAsAlways/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -395,6 +396,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -428,4 +430,8 @@
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
