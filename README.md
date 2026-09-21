@@ -182,6 +182,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -200,11 +201,13 @@
 | [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -295,6 +298,7 @@
 | [1104-coloring-a-border](https://github.com/AmritAsAlways/Leetcode/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmritAsAlways/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
