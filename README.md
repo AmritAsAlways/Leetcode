@@ -42,6 +42,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AmritAsAlways/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4284-smallest-stable-index-i) |
@@ -128,6 +129,7 @@
 | [1307-ugly-number-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/1307-ugly-number-iii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/AmritAsAlways/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3831-find-x-value-of-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [4245-count-commas-in-range](https://github.com/AmritAsAlways/Leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -181,6 +183,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAsAlways/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Tree
 |  |
 | ------- |
