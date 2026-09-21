@@ -2,7 +2,6 @@ class TrieNode{
 public:
     char ch;
     vector<TrieNode*>v;
-    int childnodes=0;
     bool end;
     TrieNode(char c){
         ch=c;
