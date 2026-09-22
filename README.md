@@ -64,6 +64,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmritAsAlways/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -84,6 +85,7 @@
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Treap
 |  |
 | ------- |
@@ -450,8 +452,13 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
