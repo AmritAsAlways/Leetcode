@@ -461,4 +461,8 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AmritAsAlways/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
