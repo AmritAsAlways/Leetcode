@@ -44,6 +44,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmritAsAlways/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4284-smallest-stable-index-i) |
@@ -135,6 +136,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/AmritAsAlways/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2032-largest-odd-number-in-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3831-find-x-value-of-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmritAsAlways/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4245-count-commas-in-range](https://github.com/AmritAsAlways/Leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
