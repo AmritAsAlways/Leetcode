@@ -35,6 +35,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAsAlways/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AmritAsAlways/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -62,6 +63,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmritAsAlways/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -74,6 +76,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmritAsAlways/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAsAlways/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmritAsAlways/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmritAsAlways/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -245,6 +249,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4284-smallest-stable-index-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## String
