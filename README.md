@@ -41,6 +41,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AmritAsAlways/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AmritAsAlways/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -91,6 +92,7 @@
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/AmritAsAlways/Leetcode/tree/master/0744-network-delay-time) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AmritAsAlways/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Treap
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AmritAsAlways/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bracket Sequences
 |  |
@@ -412,6 +415,7 @@
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AmritAsAlways/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3811-reverse-degree-of-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Interactive
 |  |
