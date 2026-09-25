@@ -1,6 +1,6 @@
 class Solution {
 public:
-pair<int,int> solve(string&s,int i,int&n){
+int solve(string&s,int&i,int&n){
     int sum=0;
     bool add=true;
     while(i<n){
@@ -12,15 +12,19 @@ pair<int,int> solve(string&s,int i,int&n){
         }
 
         if(s[i]=='('){
-            pair<int,int>p=solve(s,i+1,n);
-            i=p.second;
-            if(add) sum+=p.first;
-            else sum-=p.first;
+            i++;
+            int x=solve(s,i,n);
+            if(add) sum+=x;
+            else sum-=x;
             continue;
         }
-        else if(s[i]==')') break;
+        else if(s[i]==')'){
+            i++;
+            break;
+        }
 
-        long long digit=s[i]-'0',j=i+1;
+        long long digit=s[i]-'0';
+        int j=i+1;
         while(j<n){
             if(s[j]<'0' || s[j]>'9') break;
             digit*=10;
@@ -33,12 +37,11 @@ pair<int,int> solve(string&s,int i,int&n){
         i=j;
     }
 
-    return {sum,i+1};
+    return sum;
 }
     int calculate(string s) {
         s.push_back(')');
-        int n=s.size();
-        pair<int,int> answer=solve(s,0,n);
-        return answer.first;
+        int n=s.size(),i=0;
+        return solve(s,i,n);
     }
 };
