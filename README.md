@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmritAsAlways/Leetcode/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AmritAsAlways/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0866-rectangle-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0866-rectangle-overlap) |
@@ -266,6 +267,7 @@
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/AmritAsAlways/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -372,6 +374,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -426,6 +429,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
