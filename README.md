@@ -25,6 +25,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0864-image-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/AmritAsAlways/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -172,6 +173,7 @@
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AmritAsAlways/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0772-construct-quad-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0864-image-overlap](https://github.com/AmritAsAlways/Leetcode/tree/master/0864-image-overlap) |
 | [1036-rotting-oranges](https://github.com/AmritAsAlways/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmritAsAlways/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -203,6 +205,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
+| [0772-construct-quad-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0772-construct-quad-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AmritAsAlways/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -246,6 +249,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmritAsAlways/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0772-construct-quad-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0772-construct-quad-tree) |
 ## Merge Sort
 |  |
 | ------- |
