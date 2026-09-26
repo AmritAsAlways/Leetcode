@@ -282,6 +282,7 @@
 | [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
+| [0886-score-of-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/AmritAsAlways/Leetcode/tree/master/0889-buddy-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AmritAsAlways/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -420,6 +421,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
+| [0886-score-of-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -442,6 +444,7 @@
 | [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
