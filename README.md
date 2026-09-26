@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/AmritAsAlways/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AmritAsAlways/Leetcode/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/AmritAsAlways/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AmritAsAlways/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AmritAsAlways/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AmritAsAlways/Leetcode/tree/master/0200-number-of-islands) |
@@ -522,4 +523,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmritAsAlways/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AmritAsAlways/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
