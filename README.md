@@ -468,6 +468,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/AmritAsAlways/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Combinatorics
 |  |
 | ------- |
@@ -502,6 +503,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0969-number-of-recent-calls](https://github.com/AmritAsAlways/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmritAsAlways/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -527,4 +529,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmritAsAlways/Leetcode/tree/master/0136-single-number) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AmritAsAlways/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
