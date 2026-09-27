@@ -23,6 +23,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/AmritAsAlways/Leetcode/tree/master/0605-can-place-flowers) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
@@ -117,6 +118,7 @@
 | [0435-non-overlapping-intervals](https://github.com/AmritAsAlways/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmritAsAlways/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/AmritAsAlways/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAsAlways/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
