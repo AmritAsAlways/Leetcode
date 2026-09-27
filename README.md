@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAsAlways/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AmritAsAlways/Leetcode/tree/master/0035-search-insert-position) |
+| [0068-text-justification](https://github.com/AmritAsAlways/Leetcode/tree/master/0068-text-justification) |
 | [0130-surrounded-regions](https://github.com/AmritAsAlways/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AmritAsAlways/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AmritAsAlways/Leetcode/tree/master/0162-find-peak-element) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/AmritAsAlways/Leetcode/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/AmritAsAlways/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
@@ -454,6 +456,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/AmritAsAlways/Leetcode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AmritAsAlways/Leetcode/tree/master/2470-removing-stars-from-a-string) |
