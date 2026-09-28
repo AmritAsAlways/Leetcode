@@ -27,6 +27,7 @@
 | [0605-can-place-flowers](https://github.com/AmritAsAlways/Leetcode/tree/master/0605-can-place-flowers) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AmritAsAlways/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmritAsAlways/Leetcode/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0772-construct-quad-tree) |
@@ -289,6 +290,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmritAsAlways/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/AmritAsAlways/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [4284-smallest-stable-index-i](https://github.com/AmritAsAlways/Leetcode/tree/master/4284-smallest-stable-index-i) |
