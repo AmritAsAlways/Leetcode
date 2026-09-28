@@ -265,6 +265,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmritAsAlways/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/AmritAsAlways/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -413,6 +414,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AmritAsAlways/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/AmritAsAlways/Leetcode/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AmritAsAlways/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
