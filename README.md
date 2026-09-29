@@ -305,6 +305,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/AmritAsAlways/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/AmritAsAlways/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/AmritAsAlways/Leetcode/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/AmritAsAlways/Leetcode/tree/master/0306-additive-number) |
 | [0443-string-compression](https://github.com/AmritAsAlways/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/AmritAsAlways/Leetcode/tree/master/0649-dota2-senate) |
@@ -415,6 +416,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/AmritAsAlways/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/AmritAsAlways/Leetcode/tree/master/0306-additive-number) |
 ## Recursion
 |  |
 | ------- |
