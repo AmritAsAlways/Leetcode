@@ -26,6 +26,7 @@
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AmritAsAlways/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/AmritAsAlways/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/AmritAsAlways/Leetcode/tree/master/0690-employee-importance) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmritAsAlways/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/AmritAsAlways/Leetcode/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AmritAsAlways/Leetcode/tree/master/0480-sliding-window-median) |
+| [0643-maximum-average-subarray-i](https://github.com/AmritAsAlways/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmritAsAlways/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmritAsAlways/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAsAlways/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
