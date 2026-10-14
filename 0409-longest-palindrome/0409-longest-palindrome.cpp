@@ -7,19 +7,32 @@ public:
             if(s[i]>='a') lower[s[i]-'a']++;
             else upper[s[i]-'A']++;
         }
-        int answer=0,odd=0;
+        int answer=0,odd=0,totalodd=0,maxiodd=0;
         for(int i=0;i<26;i++){
-            answer+=upper[i]+lower[i];
-            if(upper[i]%2!=0){
-                answer--;
-                odd=max(odd,upper[i]);
+            if(lower[i]!=0){
+                if(lower[i]%2==0) answer+=lower[i];
+                else{
+                    odd++;
+                    totalodd+=lower[i];
+                    maxiodd=max(maxiodd,lower[i]);
+                }
             }
-            if(lower[i]%2!=0){
-                answer--;
-                odd=max(odd,lower[i]);
+
+            if(upper[i]!=0){
+                if(upper[i]%2==0) answer+=upper[i];
+                else{
+                    odd++;
+                    totalodd+=upper[i];
+                    maxiodd=max(maxiodd,upper[i]);
+                }
             }
         }
-        if(odd!=0) answer++;
+
+        totalodd-=odd;
+        answer+=totalodd;
+
+        if(maxiodd!=0) answer++;
         return answer;
+
     }
 };
