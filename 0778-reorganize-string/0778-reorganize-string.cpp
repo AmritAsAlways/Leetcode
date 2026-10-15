@@ -71,7 +71,6 @@ public:
             }
             return ans2;
         }
-        cout<<"afa"<<ans2<<endl;
         if(k==m-1 && v[i].second==2){
             int z=ans2.size();
             if(ans2[z-1]!=v[i].first && ans1[k]!=v[i].first){
@@ -84,7 +83,6 @@ public:
                 return "";
             }
         }
-        cout<<ans2<<endl;
         return ans2;
     }
 };
