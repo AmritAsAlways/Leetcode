@@ -1,35 +1,30 @@
 class Solution {
 public:
 struct comparator{
-    bool operator()(pair<string,int>&a,pair<string,int>&b){
-        if(a.second==b.second) return a.first<b.first;
-        return a.second>b.second;
+    bool operator()(const pair<int,string>&a,const pair<int,string>&b){
+        if(a.first==b.first) return a.second>b.second;
+        return a.first<b.first;
     }
 };
     vector<string> topKFrequent(vector<string>& words, int k) {
         int n=words.size();
         unordered_map<string,int>um;
         for(int i=0;i<n;i++) um[words[i]]++;
-        priority_queue<pair<string,int>,vector<pair<string,int>>,comparator>minheap;
-        int size=0;
+        //now i will put all the strings and the number of times it came in a priority_queue and first sort it according to the number of times and if number of times is same then lexicographically 
+        //so i have to use maxheap with custome constructor here
+        priority_queue<pair<int,string>,vector<pair<int,string>>,comparator>maxheap;
         for(auto&it:um){
-            if(size==k){
-                if(minheap.top().second<it.second || minheap.top().second==it.second && minheap.top().first>it.first){
-                    minheap.pop();
-                    minheap.push({it.first,it.second});
-                }
-            }
-            else{
-                minheap.push({it.first,it.second});
-                size++;
-            }
+            maxheap.push({it.second,it.first});
         }
-        vector<string>v(k,"");
-        while(!minheap.empty()){
-            v[size-1]=minheap.top().first;
-            minheap.pop();
-            size--;
+        vector<string>v;
+        while(k>0){
+            pair<int,string>p=maxheap.top();
+            maxheap.pop();
+
+            v.push_back(p.second);
+            k--;
         }
         return v;
+
     }
 };
