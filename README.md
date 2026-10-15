@@ -84,6 +84,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmritAsAlways/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AmritAsAlways/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmritAsAlways/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -149,6 +150,7 @@
 | [0807-custom-sort-string](https://github.com/AmritAsAlways/Leetcode/tree/master/0807-custom-sort-string) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/AmritAsAlways/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AmritAsAlways/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmritAsAlways/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmritAsAlways/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AmritAsAlways/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -338,6 +340,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmritAsAlways/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/AmritAsAlways/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AmritAsAlways/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AmritAsAlways/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/AmritAsAlways/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -356,6 +359,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmritAsAlways/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1472-increasing-decreasing-string](https://github.com/AmritAsAlways/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AmritAsAlways/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AmritAsAlways/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmritAsAlways/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Longest Increasing Subsequence
