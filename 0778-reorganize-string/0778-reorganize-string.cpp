@@ -57,7 +57,6 @@ public:
             }
             return ans2;
         }
-        cout<<v[i].second<<endl;
         if(k==m-1 && v[i].second>2) return "";
         if(k==m-1 && v[i].second==1){
             if(v[i].first==ans1[k]) return "";
