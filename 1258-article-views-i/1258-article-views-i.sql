@@ -1,6 +1,2 @@
 # Write your MySQL query statement below
-with temporarytable as (
-    select author_id as id from Views as v where v.author_id=v.viewer_id
-)
-
-select distinct id from temporarytable order by id asc
+select distinct author_id as id from Views where author_id=viewer_id order by id asc
