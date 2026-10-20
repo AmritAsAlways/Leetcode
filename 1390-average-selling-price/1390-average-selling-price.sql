@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select product_id , ifnull(round(sum(totalprice)/sum(units),2),0) as average_price from  (select p.product_id , us.units*p.price as totalprice , us.units from Prices as p left join UnitsSold as us on p.product_id=us.product_id and p.start_date<=us.purchase_date && us.purchase_date<=p.end_date ) as x group by product_id
