@@ -598,6 +598,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/AmritAsAlways/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/AmritAsAlways/Leetcode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/AmritAsAlways/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/AmritAsAlways/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AmritAsAlways/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/AmritAsAlways/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/AmritAsAlways/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
