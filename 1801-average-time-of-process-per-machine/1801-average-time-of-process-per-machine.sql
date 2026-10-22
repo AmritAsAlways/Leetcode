@@ -1,3 +1,2 @@
 # Write your MySQL query statement below
-select x.machine_id , round(avg(timediff),3) as processing_time from (select one.machine_id , abs(one.timestamp-two.timestamp)  as timediff from Activity as one join Activity as two on one.machine_id=two.machine_id and  one.process_id=two.process_id and one.activity_type="start" and two.activity_type="end" ) as x group by x.machine_id
-# here round() function to round off the answer given by avg(timediff) to 3 decimal points
+select machine_id , round(avg(totaltime),3) as processing_time from (select a.machine_id , a.process_id , a.timestamp-b.timestamp as totaltime from activity as a join activity as b on a.machine_id=b.machine_id and a.process_id=b.process_id and a.activity_type='end' and b.activity_type='start') as x group by machine_id
