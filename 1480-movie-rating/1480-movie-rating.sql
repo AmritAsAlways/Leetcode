@@ -1,21 +1,3 @@
-# Write your MySQL query statement below
-(
-    -- Part 1: Sabse zyada movies rate karne wala user
-    SELECT u.name AS results
-    FROM Users AS u
-    JOIN MovieRating AS mr ON u.user_id = mr.user_id
-    GROUP BY u.user_id, u.name
-    ORDER BY COUNT(mr.movie_id) DESC, u.name ASC
-    LIMIT 1
-)
-UNION ALL
-(
-    -- Part 2: February 2020 mein sabse high average rating wali movie
-    SELECT m.title AS results
-    FROM Movies AS m
-    JOIN MovieRating AS mr ON m.movie_id = mr.movie_id
-    WHERE DATE_FORMAT(mr.created_at, '%Y-%m') = '2020-02'
-    GROUP BY m.movie_id, m.title
-    ORDER BY AVG(mr.rating) DESC, m.title ASC
-    LIMIT 1
-);
+with temp as (select u.name as results from movierating as m join users as u on u.user_id=m.user_id group by u.user_id order by count(u.user_id) desc , u.name asc limit 1) ,
+temp1 as (select mo.title from movierating as m join movies as mo on mo.movie_id=m.movie_id and m.created_at between '2020-02-01' and '2020-02-29' group by m.movie_id order by avg(m.rating) desc , mo.title asc limit 1)
+select * from temp union all select * from temp1
