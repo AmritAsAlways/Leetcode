@@ -1,20 +1,7 @@
-# Write your MySQL query statement below
-WITH DailyAmount AS (
-    -- Step 1: Har din ka total amount sum karo (kyunki ek din mein multiple customers ho sakte hain)
-    SELECT visited_on, SUM(amount) AS total_amount
-    FROM Customer
-    GROUP BY visited_on
-),
-RollingWindow AS (
-    -- Step 2: 7-day rolling window (6 preceding days + current day) lagao
-    SELECT 
-        visited_on,
-        SUM(total_amount) OVER (ORDER BY visited_on ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) AS amount,
-        ROUND(AVG(total_amount) OVER (ORDER BY visited_on ROWS BETWEEN 6 PRECEDING AND CURRENT ROW), 2) AS average_amount,
-        ROW_NUMBER() OVER (ORDER BY visited_on) AS rn
-    FROM DailyAmount
-)
--- Step 3: Sirf wahi rows dikhao jahan poora 7 din ka window ban chuka ho (rn >= 7)
-SELECT visited_on, amount, average_amount
-FROM RollingWindow
-WHERE rn >= 7;
+-- with temp as (select *, sum(amount) over (order by visited_on) AS total_sum from customer group by visited_on)
+-- select visited_on , total_sum - coalesce(lag(total_sum,6) over (order by visited_on),amount) as totalsum from temp 
+with temp as (select visited_on , sum(amount) as amount , count(visited_on) as cnt from customer group by visited_on) , 
+temp1  as (select * , sum(amount) over (order by visited_on) as totalsum , sum(cnt) over (order by visited_on) as totalcount  from temp),
+temp2 as (select * , coalesce(lag(totalcount,6) over (order by visited_on),0) as prevcount , coalesce(lag(totalsum,7) over (order by visited_on),0) as prevsum from temp1),
+temp3 as (select * from temp2 where prevcount!=0)
+select visited_on , totalsum-prevsum as amount , round((totalsum-prevsum)/7,2) as average_amount from temp3
