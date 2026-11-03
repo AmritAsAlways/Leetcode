@@ -1,3 +1,2 @@
-# Write your MySQL query statement below
-with temp as (select player_id , min(event_date) as first_day from activity group by player_id)
-select round(count(*)/(select count(*) from temp),2)  as fraction from activity as a join temp as t on t.player_id=a.player_id and datediff(a.event_date,t.first_day)=1
+with temp as (select player_id , min(event_date) as firstdate from activity group by player_id)
+select round(count(event_date)/count(*),2) as fraction from  (select t.player_id , a.event_date from temp as t left join activity as a on a.player_id=t.player_id and datediff(a.event_date,t.firstdate)=1 ) as x
