@@ -1,3 +1,4 @@
-with temp as (select product_id , max(change_date) as lastdate from products where change_date<='2019-08-16' group by product_id) ,
-x as (select product_id  from products group by product_id)
-select x.product_id , case when b.new_price is null then 10 else b.new_price end as price from x left join (select t.product_id , p.new_price from temp as t join products as p on p.product_id=t.product_id and p.change_date=t.lastdate) as b on x.product_id=b.product_id
+with temp as (select product_id , max(change_date) as lastdate from products where change_date<='2019-08-16' group by product_id),
+x as (select product_id from products group by product_id),
+temp2 as (select x.product_id , t.lastdate from x left join temp as t on x.product_id=t.product_id)
+select t.product_id , ifnull(p.new_price,10) as price from temp2 as t left join products as p on t.product_id=p.product_id and t.lastdate=p.change_date
