@@ -1,13 +1,3 @@
 # Write your MySQL query statement below
-SELECT 'Low Salary' AS category, SUM(income < 20000) AS accounts_count
-FROM Accounts
-
-UNION ALL
-
-SELECT 'Average Salary' AS category, SUM(income >= 20000 AND income <= 50000) AS accounts_count
-FROM Accounts
-
-UNION ALL
-
-SELECT 'High Salary' AS category, SUM(income > 50000) AS accounts_count
-FROM Accounts;
+with temp as (select 'Low Salary' as category , count(case when income<20000 then 1 end) as accounts_count from accounts), temp1 as (select 'Average Salary' as category , count(case when income between 20000 and 50000 then 1 end) as accounts_count from accounts) , temp2 as (select 'High Salary' as category , count(case when income>50000 then 1 end) as accounts_count from accounts)
+select * from temp union (select * from temp1 union select * from temp2)
