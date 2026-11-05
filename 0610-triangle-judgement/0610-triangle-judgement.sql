@@ -1,1 +1,1 @@
-select x , y , z , case when x+y>z and x+z>y and y+z>x then 'Yes' else 'No' end as triangle from triangle 
+select x , y ,z , case when x+y>z and z+y>x and x+z>y then 'Yes' else 'No' end as Triangle from Triangle 
