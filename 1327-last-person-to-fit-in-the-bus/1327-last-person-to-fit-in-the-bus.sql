@@ -1,2 +1,2 @@
-with temp as (select person_name , weight , sum(weight) over (order by turn) as totalweight , turn from queue)
-select person_name from temp where totalweight<=1000 order by turn desc limit 1
+with temp as (select * , sum(weight) over (order by turn) as totalweight from queue order by turn),temp1 as (select * from temp where totalweight<=1000 order by totalweight desc)
+select person_name from temp1 limit 1
