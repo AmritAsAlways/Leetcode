@@ -1,3 +1,3 @@
-with temp as (select u.name  as results from movierating as m join users as u on u.user_id=m.user_id group by u.name order by count(u.name) desc , u.name asc limit 1) ,
-temp1 as (select m.title from movierating as mr join movies as m on m.movie_id=mr.movie_id and mr.created_at between '2020-02-01' and '2020-02-29' group by m.title order by avg(mr.rating) desc , m.title asc limit 1)
+with temp as (select u.name as results from users as u join movierating as m on m.user_id=u.user_id group by u.user_id order by count(u.user_id) desc , u.name asc limit 1),
+temp1 as (select m.title from movies as m join movierating as r on r.movie_id=m.movie_id  where r.created_at between '2020-02-01' and '2020-02-29' group by m.movie_id order by avg(r.rating) desc , m.title asc limit 1)
 select * from temp union all select * from temp1
