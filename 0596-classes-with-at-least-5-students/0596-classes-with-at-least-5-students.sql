@@ -1,2 +1,1 @@
-# Write your MySQL query statement below
-select x.class from (select class , count(class) as student_in_class from Courses group by class) as x where x.student_in_class>=5
+select class from courses group by class having count(distinct student)>=5
