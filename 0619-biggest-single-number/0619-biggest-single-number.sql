@@ -1,2 +1,1 @@
-with temp as (select num from mynumbers group by num having count(num)=1)
-select max(num) as num from temp
+select (select num from mynumbers group by num having count(num)=1 order by num desc limit 1)  as num
