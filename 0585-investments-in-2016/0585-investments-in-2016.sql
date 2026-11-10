@@ -1,2 +1,2 @@
-with temp as (select pid , tiv_2015 , tiv_2016 , concat(lat,',',lon) as lat_lon from insurance)
-select round(sum(tiv_2016),2) as tiv_2016 from temp where tiv_2015 in (select tiv_2015 from temp group by tiv_2015 having count(tiv_2015)>1 ) and lat_lon in (select lat_lon from temp group by lat_lon having count(lat_lon)=1)
+with temp as (select pid , tiv_2015 , tiv_2016 , concat(lat,' ',lon) as latlon from insurance)
+select round(sum(tiv_2016),2) as tiv_2016  from temp where tiv_2015 in (select tiv_2015 from temp group by tiv_2015 having count(tiv_2015)>1) and latlon in (select latlon from temp group by latlon having count(latlon)=1)
