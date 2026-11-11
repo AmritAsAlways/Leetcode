@@ -1,2 +1,2 @@
-with temp as (select customer_id , min(order_date) as firstorder from delivery group by customer_id)
-select round(count(case when firstorder=customer_pref_delivery_date then 1 end)*100/count(*),2) as immediate_percentage from  (select t.customer_id , t.firstorder , d.customer_pref_delivery_date from temp as t left join delivery as d on t.customer_id=d.customer_id and t.firstorder=d.order_date ) as x 
+with temp as (select customer_id , min(order_date) as firstdate from delivery group by customer_id)
+select round(count(case when d.customer_pref_delivery_date=t.firstdate then 1 end)*100/(select count(*) from temp),2) as immediate_percentage  from temp as t left join delivery as d on d.customer_id=t.customer_id and t.firstdate=d.order_date 
