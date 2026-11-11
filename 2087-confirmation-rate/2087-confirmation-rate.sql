@@ -1,1 +1,1 @@
-select s.user_id , ifnull(round(count(case when c.action='confirmed' then 1 end)/count(c.action),2),0) as confirmation_rate from signups as s left join confirmations as c on c.user_id=s.user_id group by s.user_id 
+select s.user_id , round(ifnull(count(case when c.action='confirmed' then 1 end),0)/count(*),2) as confirmation_rate from signups as s left join confirmations as c on c.user_id=s.user_id group by s.user_id
