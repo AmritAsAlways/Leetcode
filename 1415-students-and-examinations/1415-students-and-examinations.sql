@@ -1,2 +1,2 @@
 with temp as (select * from students cross join subjects)
-select t.student_id , t.student_name , t.subject_name , count(e.subject_name) as attended_exams  from temp as t left join examinations as e on e.student_id=t.student_id and e.subject_name=t.subject_name group by t.student_id , t.subject_name  order by t.student_id asc , t.subject_name 
+select t.student_id , t.student_name , t.subject_name , count(e.subject_name) as attended_exams from temp as t left join examinations as e on e.student_id=t.student_id and e.subject_name=t.subject_name group by t.student_id , t.subject_name order by t.student_id , t.subject_name
