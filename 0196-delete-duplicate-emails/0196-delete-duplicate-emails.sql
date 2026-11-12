@@ -1,1 +1,1 @@
-delete p from person as p , person p1 where p.email=p1.email and p.id>p1.id
+delete p from person as p , person as p1 where p1.email=p.email and p.id>p1.id
