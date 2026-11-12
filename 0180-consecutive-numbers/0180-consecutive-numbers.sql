@@ -1,2 +1,1 @@
-with temp as (select num , lead(num,1) over (order by id) as num1 , lead(num,2) over (order by id) as num2  from logs)
-select distinct num as ConsecutiveNums from temp where num=num1 and num=num2
+select distinct num as ConsecutiveNums from (select num , ifnull(lead(num,1) over (order by id),24325252) as num1 , ifnull(lead(num,2) over (order by id),24325252) as num2 from logs ) as x where num=num1 and num=num2
