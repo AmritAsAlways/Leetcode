@@ -1,2 +1,2 @@
-with temp as (select  product_id , unit from orders where order_date between '2020-02-01' and '2020-02-29'),temp1 as (select p.product_name , sum(o.unit) as unit from products as p join temp as o on o.product_id=p.product_id group by p.product_id)
-select * from temp1 where unit>=100
+with temp as (select p.product_id ,p.product_name , o.unit , o.order_date from products as p join orders as o on o.product_id=p.product_id)
+select product_name , sum(unit) as unit from temp where order_date between '2020-02-01' and '2020-02-29' group by product_id having sum(unit)>=100
